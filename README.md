@@ -63,3 +63,5 @@ This is a Maven project. To build:
 
 Java 21
 Maven
+
+# Open for contributions - 
